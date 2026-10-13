@@ -1,0 +1,10 @@
+{
+  "name": "Scan & Go — Smart Supermarket Checkout",
+  "description": "Next-generation supermarket scan & go app with live barcode scanner, weight verification, aisle checklist, digital receipt, and turnstile exit gate simulator.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
